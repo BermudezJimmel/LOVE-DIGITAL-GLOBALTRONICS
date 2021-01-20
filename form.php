@@ -45,4 +45,4 @@
   </div>
 </body>
 </html>
-<script src="scripts.js"></script>s
+<script src="scripts.js"></script>

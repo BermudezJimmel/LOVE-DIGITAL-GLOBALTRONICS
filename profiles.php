@@ -1,5 +1,5 @@
 <?php
-  $conn = mysqli_connect("localhost", "root", "", "img-upload");
+  $conn = mysqli_connect("localhost", "root", "", "digital_love2021");
   $results = mysqli_query($conn, "SELECT * FROM users");
   $users = mysqli_fetch_all($results, MYSQLI_ASSOC);
 ?>
