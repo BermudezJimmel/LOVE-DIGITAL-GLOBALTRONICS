@@ -7,10 +7,13 @@ February 14
 
 
 Source:
+
+Day1
 -https://www.youtube.com/watch?v=z5eL6TStPws&t=288s&ab_channel=AwaMelvine
 -https://codewithawa.com/posts/image-preview-and-upload-using-php-and-mysql-database
 
-
+Day2
+-https://www.codexworld.com/image-gallery-crud-with-php-mysql/
 -----------------------
 
 Basic info
@@ -40,3 +43,5 @@ CREATE TABLE `users` (
 )
 
 
+------
+Sir Christian 
